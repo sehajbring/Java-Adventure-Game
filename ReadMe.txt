@@ -1,10 +1,11 @@
 		"ESCAPE ADVENTURES OF THE GRUMPY FACE"
        			 (Version 13.04.17.00)
 
-AUTHORS:	Leia Astorga
+AUTHORS:	Sehajveer Bring
+		Leia Astorga
 		Grace Lan
 		Anindya Mandal
-		Sehajveer Bring
+		
 
 CREDITS:	Sources used for methods are referenced in the method descriptions
 		All images used were either purchased for use by Grace Lan or created by Leia Astorga
